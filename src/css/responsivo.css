@@ -43,12 +43,12 @@
         justify-content: space-between;
     }
 
-    .listagem .pokemon {
+    .listagem .pokemon{
         width: 140px;
         border-radius: 5px;
     }
 
-    .listagem .pokemon span {
+    .listagem .pokemom span {
         padding-right: 5px;
     }
 
